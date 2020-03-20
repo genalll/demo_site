@@ -3,3 +3,7 @@
     max-width: 100%;
     background: #1B2944;
 }
+a:hover{
+    opacity: .7;
+    transition: 1s;
+}
